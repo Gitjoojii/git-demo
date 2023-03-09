@@ -26,3 +26,5 @@ demo git
 ===================
 git restore README.md
 
+commit vs code
+
