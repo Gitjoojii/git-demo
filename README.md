@@ -14,3 +14,15 @@ demo git
 2 -> git add readme.md
 3 -> git commit -m "message(update)"
 4 -> git push
+
+3 delete file git
+================
+1 -> delete file from project(home.html)
+2 -> git rm home.html
+3 -> git commit -m "remove home.html"
+4 -> git push
+
+4 undo file or code
+===================
+git restore README.md
+
